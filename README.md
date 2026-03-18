@@ -1,7 +1,6 @@
 # VShield - Intelligent VPN/Proxy Protocol
 
 ![Stats](https://goreportcard.com/badge/github.com/rogovskoy/vshield-protocol)
-![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![GitHub](https://img.shields.io/github/license/rogovskoy/vshield-protocol)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rogovskoy/vshield-protocol)
 ![GitHub issues](https://img.shields.io/github/issues/rogovskoy/vshield-protocol)
